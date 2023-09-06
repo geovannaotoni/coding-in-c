@@ -1,4 +1,4 @@
-// 2) Faça um programa para ler um número inteiro positivo de 3 dígitos. Imprima na tela o número invertido. Ex? 123 -> 321
+// 2) Faça um programa para ler um número inteiro positivo de 3 dígitos. Imprima na tela o número invertido. Ex: 123 -> 321
 #include <stdio.h>
 
 int main() {
