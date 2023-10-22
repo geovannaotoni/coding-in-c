@@ -25,7 +25,6 @@ long long int soma_primos(long long int quantidade_primos) {
     
     while(primos_encontrados < quantidade_primos) {
         if(primo(num_atual)) {
-            // primos[primos_encontrados] = num_atual;
             soma += num_atual;
             primos_encontrados++;
         }
